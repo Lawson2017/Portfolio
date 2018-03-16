@@ -1,0 +1,10 @@
+section {
+    padding: 2rem 0;
+}
+
+@media (min-width: 992px) {
+	header.masthead {
+	    padding-top: calc(5rem + 106px);
+	    padding-bottom: 6rem;
+	}		
+}	
