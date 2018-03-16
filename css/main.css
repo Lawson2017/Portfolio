@@ -4,7 +4,7 @@ section {
 
 @media (min-width: 992px) {
 	header.masthead {
-	    padding-top: calc(5rem + 106px);
+	    padding-top: calc(4.5rem + 106px);
 	    padding-bottom: 6rem;
 	}		
 }	
